@@ -1,4 +1,6 @@
-public class KOmpNaOsoba {
+package podstawy;
+
+public class KompNaOsoba {
     public static void main(String[] args) {
 
         int osoba = 7;
