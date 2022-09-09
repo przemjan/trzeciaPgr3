@@ -19,5 +19,6 @@ public class ScannerDemo {
 
         System.out.println("Numer buta: " + numerButa +
                 ", średnia: " + average);
+        // 9,12,15,19,20
     }
 }
