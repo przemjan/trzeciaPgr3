@@ -31,5 +31,6 @@ public class Zmienne {
         System.out.print("Mój \"napis\" \n" + text + " "+ numerButa);
         System.out.print("Mój napis \t" + text + " "+ numerButa);
 
+        //https://github.com/przemjan/trzeciaPgr3
     }
 }
