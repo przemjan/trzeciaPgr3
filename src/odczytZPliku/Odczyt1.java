@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Odczyt1 {
     public static void main(String[] args) throws IOException {
 
-        File mojPlik = new File ("danie4.txt");
+        File mojPlik = new File ("danie.txt");
 
 
         Scanner fileScanner = new Scanner (mojPlik);

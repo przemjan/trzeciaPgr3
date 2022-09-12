@@ -7,7 +7,7 @@ public class Akumulator {
         for (int i = 0; i < 200; i++ ) {
             System.out.println("W dniu " + i + " pensja wynosi " + wyplata + "zł");
 
-           // wyplata = wyplata+1;
+            wyplata = wyplata+1;
             sumaWyplat +=wyplata;
         }
 

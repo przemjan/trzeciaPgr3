@@ -6,12 +6,12 @@ import java.io.PrintWriter;
 public class PrintWriterDemo  {
     public static void main(String[] args) throws IOException {
 
-        PrintWriter pw = new PrintWriter("danie4.txt");
+        PrintWriter pw = new PrintWriter("danie.txt");
 
-        pw.println("Bogdan  lubi różne rzeczy :)");
+        pw.println("Marcin lubi pierogi :)");
 
         //zapisanie kolejnej linii
-        //pw.println("Zosia lubi pomidory");
+        pw.println("Filip lubi spać");
 
         pw.close();
     }
