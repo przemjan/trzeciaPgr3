@@ -11,7 +11,7 @@ public class Srednia5 {
         if (srednia <2) {
             System.out.println("Bardzo źle " + srednia);
         }
-        else if (srednia > 2) {
+        else if (srednia >= 2) {
             System.out.println("Kiepsko" + srednia);
         }
         else if (srednia > 3) {

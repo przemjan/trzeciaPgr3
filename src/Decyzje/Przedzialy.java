@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class Przedzialy {
     public static void main(String[] args) {
-        int x;
+        int x, y;
 
+        y=0;
         Scanner keyboard = new Scanner(System.in);
 
         System.out.println("Podaj liczbę x :");
